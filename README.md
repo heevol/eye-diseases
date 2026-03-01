@@ -18,15 +18,15 @@ https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification
 ```bash
 EYE-DISEASES/
 ├── dataset/                    # Base de dados de treinamento
-│ ├── cataract/                     ⮕ 1000 imagens de catarata
-│ ├── diabetic_retinopathy/         ⮕ 1000 imagens de retinopatia diabética
-│ ├── glaucoma/                     ⮕ 1000 imagens de glaucoma
-│ └── normal/                       ⮕ 1000 imagens de olhos saudáveis
+│ ├── cataract/                     ⮕ 800 imagens de catarata
+│ ├── diabetic_retinopathy/         ⮕ 800 imagens de retinopatia diabética
+│ ├── glaucoma/                     ⮕ 800 imagens de glaucoma
+│ └── normal/                       ⮕ 800 imagens de olhos saudáveis
 ├── inputs/                     # Pasta para imagens de teste
-│ ├── cataract/                     ⮕ 38 imagens de catarata
-│ ├── diabetic_retinopathy/         ⮕ 98 imagens de retinopatia diabética
-│ ├── glaucoma/                     ⮕ 7 imagens de glaucoma
-│ └── normal/                       ⮕ 74 imagens de olhos saudáveis
+│ ├── cataract/                     ⮕ 238 imagens de catarata
+│ ├── diabetic_retinopathy/         ⮕ 298 imagens de retinopatia diabética
+│ ├── glaucoma/                     ⮕ 207 imagens de glaucoma
+│ └── normal/                       ⮕ 274 imagens de olhos saudáveis
 ├── train_model.py              # Script principal de treinamento
 ├── predict.py                  # Script para fazer predições
 ├── pre_process.py              # Script de pré-processamento e verificação
