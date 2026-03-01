@@ -2,3 +2,4 @@ class_indices.txt
 eye_disease_model_final.h5
 eye_disease_model.h5
 training_history.png
+__pycache__/
